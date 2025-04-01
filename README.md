@@ -1,2 +1,2 @@
 # latihan-branch
-## ini adalah latihan branch
+## ini adalah repository untuk latihan membuat branch baru pada GitHub
